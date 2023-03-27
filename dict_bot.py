@@ -1,7 +1,7 @@
 
 from telebot import TeleBot, types
 
-bot = TeleBot(token='6248003057:AAHjxCWdMixZ1M4whuVRs8I4UQszqjTDX8g', parse_mode='html') 
+bot = TeleBot(token='Токкен', parse_mode='html') 
 
 DEFINITOINS = {
     'регресс': 'Проверить что новый функционал не сломал существующий',
